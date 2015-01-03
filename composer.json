@@ -1,10 +1,16 @@
 {
-    "name": "kalaspuff/redis-cache-zend-framework",
-    "description": "Redis cache backend for Zend Framework",
+    "name": "chrispappas/redis-cache-zend-framework",
+    "description": "Redis cache backend for Zend Framework Forked from kalaspuff/redis-cache-zend-framework",
     "keywords": ["redis", "zend"],
-    "homepage": "https://github.com/kalaspuff/redis-cache-zend-framework",
+    "homepage": "https://github.com/chrispappas/redis-cache-zend-framework",
     "license": "New BSD",
     "authors": [
+        {
+            "name": "Chris Pappas",
+            "email": "pappas.christopher@gmail.com",
+            "homepage": "https://github.com/chrispappas/",
+            "role": "Developer"
+        },
         {
             "name": "kalaspuff",
             "email": "carloscar@agigen.se",
