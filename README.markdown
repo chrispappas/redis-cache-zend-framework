@@ -1,5 +1,9 @@
 Redis cache backend for Zend Framework by Carl Oscar Aaro
 =============
+
+Forked by Chris Pappas <pappas.christopher@gmail.com>
+---
+
 Requires the phpredis extension for PHP to enable PHP to communicate with the [Redis](http://redis.io/) key-value store.
 Start with installing the phpredis PHP extension available at https://github.com/nicolasff/phpredis
 
